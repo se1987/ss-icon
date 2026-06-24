@@ -1,24 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="ic-notice" data-name="ic-notice" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+<svg id="_レイヤー_1" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
   <defs>
     <style>
-      .ic-notice-svg-1 {
-        fill: none;
-        stroke: currentColor;
-        stroke-miterlimit: 10;
-      }
-
-      .ic-notice-svg-2 {
-        fill: currentColor;
+      .cls-1 {
+        fill: #333;
       }
     </style>
   </defs>
-  <polygon class="ic-notice-svg-1" points="21.48 23.5 10.5 23.5 10.5 8.5 19.82 8.5 21.48 10.19 21.48 23.5"/>
-  <line class="ic-notice-svg-1" x1="12" y1="10.51" x2="13.99" y2="10.51"/>
-  <line class="ic-notice-svg-1" x1="12" y1="12.51" x2="16" y2="12.51"/>
-  <line class="ic-notice-svg-1" x1="12" y1="15.51" x2="19.99" y2="15.51"/>
-  <line class="ic-notice-svg-1" x1="12" y1="17.51" x2="19.99" y2="17.51"/>
-  <line class="ic-notice-svg-1" x1="12" y1="19.51" x2="19.99" y2="19.51"/>
-  <line class="ic-notice-svg-1" x1="12" y1="21.51" x2="19.99" y2="21.51"/>
-  <polygon class="ic-notice-svg-2" points="19 8 19 11 22 11 22 10 20.01 8 19 8"/>
+  <path class="cls-1" d="M10.01,8h9.99l1.98,2v14h-11.98v-16ZM11.01,9.01v13.98h9.97v-11.99h-1.99v-1.99h-7.98Z"/>
+  <rect class="cls-1" x="12" y="10.01" width="1.99" height="1"/>
+  <rect class="cls-1" x="12" y="12.01" width="4" height="1"/>
+  <rect class="cls-1" x="12" y="15.01" width="7.99" height="1"/>
+  <rect class="cls-1" x="12" y="17.01" width="7.99" height="1"/>
+  <rect class="cls-1" x="12" y="19.01" width="7.99" height="1"/>
+  <rect class="cls-1" x="12" y="21.01" width="7.99" height="1"/>
 </svg>

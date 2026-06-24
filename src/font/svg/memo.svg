@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="ic-memo" data-name="ic-memo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+<svg id="_レイヤー_16" data-name="レイヤー 16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
   <defs>
     <style>
-      .ic-memo-svg {
-        fill: none;
-        stroke: currentColor;
-        stroke-miterlimit: 10;
+      .cls-1 {
+        fill: #333;
       }
     </style>
   </defs>
-  <polygon class="ic-memo-svg" points="7.5 8.5 7.5 18.46 11.48 18.46 11.48 22.65 15.01 18.46 17.47 18.46 17.47 14.53 22.53 14.53 22.53 8.5 7.5 8.5"/>
-  <polygon class="ic-memo-svg" points="28.54 14.53 28.54 21.69 25.5 21.69 25.5 24.9 23 21.58 17.47 21.58 17.47 14.53 28.54 14.53"/>
+  <path class="cls-1" d="M29.08,14.11v7.97h-3.13s.01,4.2.01,4.2l-3.14-4.2h-5.88v-7.97h12.13ZM17.96,14.9l-.04,6.19h5.38s1.69,2.32,1.69,2.32l-.03-2.32h3.08v-6.19h-10.09Z"/>
+  <path class="cls-1" d="M23.03,8.04v10.96h-7.83l-4.22,4.97v-4.97h-3.99v-10.96h16.04ZM7.93,9.01v8.95h4.03v3.38s2.84-3.38,2.84-3.38h2.15v-3.85h5.04v-5.1H7.93ZM23.03,14.99h-5.07v4.01h5.07v-4.01Z"/>
 </svg>

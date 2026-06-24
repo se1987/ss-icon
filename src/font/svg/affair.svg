@@ -1,34 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="ic-affair" data-name="ic-affair" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+<svg id="_レイヤー_33" data-name="レイヤー 33" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
   <defs>
     <style>
-      .ic-affair-svg-1 {
-        stroke-linecap: round;
-        stroke-linejoin: round;
-        stroke-width: 1.25px;
-      }
-
-      .ic-affair-svg-1, .ic-affair-svg-2 {
+      .cls-1 {
         fill: none;
-        stroke: currentColor;
-      }
-
-      .ic-affair-svg-2 {
+        stroke: #333;
         stroke-miterlimit: 10;
       }
 
-      .ic-affair-svg-3 {
-        fill: currentColor;
+      .cls-2 {
+        fill: #333;
       }
     </style>
   </defs>
-  <polygon class="ic-affair-svg-3" points="12.98 20 13.96 26.01 24.99 26.01 24.99 24.99 21.97 24.99 21.07 20 12.98 20"/>
-  <path class="ic-affair-svg-1" d="M18.35,6.35c.3-.05-.31,0,0,0,3.4,0,6.15,2.76,6.15,6.15s-2.76,6.15-6.15,6.15-6.15-2.76-6.15-6.15c0-1.73.48-2.87,1.45-3.99"/>
-  <path class="ic-affair-svg-3" d="M11.21,8.65l2.93-.96c.22-.07.43.12.38.34l-.61,3.05c-.05.23-.32.32-.49.16l-2.32-2.1c-.17-.15-.11-.43.11-.5Z"/>
-  <polyline class="ic-affair-svg-2" points="18.39 9.06 18.39 13.23 16.62 14.9"/>
-  <line class="ic-affair-svg-2" x1="6" y1="17.49" x2="11" y2="17.49"/>
-  <line class="ic-affair-svg-2" x1="7.01" y1="19.49" x2="12" y2="19.49"/>
-  <line class="ic-affair-svg-2" x1="6" y1="21.49" x2="12" y2="21.49"/>
-  <line class="ic-affair-svg-2" x1="7.01" y1="23.5" x2="12" y2="23.5"/>
-  <line class="ic-affair-svg-2" x1="7.01" y1="25.51" x2="12.98" y2="25.51"/>
+  <polygon class="cls-2" points="12.98 20 13.96 26.01 24.99 26.01 24.99 24.99 21.97 24.99 21.07 20 12.98 20"/>
+  <polyline class="cls-1" points="18.39 9.06 18.39 13.23 16.62 14.9"/>
+  <path class="cls-2" d="M25.14,12.49c0,3.73-3.02,6.75-6.75,6.75s-6.75-3.02-6.75-6.75,3.02-6.75,6.75-6.75,6.75,3.02,6.75,6.75ZM19.39,7.09c-.6-.11-1.18-.12-1.74-.05v-1.25c-1.71.2-3.08.89-4.26,2.18h0c-.69.74-1.01,1.4-1.27,2.02h0l1.07.78s-.33.41-.35,1.65c-.03,2.59,1.68,4.85,4.2,5.43,3.98.91,7.46-2.49,6.69-6.45-.42-2.16-2.19-3.91-4.36-4.3ZM10.95,9.14l2.86,2.07.49-3.69-3.35,1.61Z"/>
+  <rect class="cls-2" x="6" y="16.99" width="4.99" height="1"/>
+  <rect class="cls-2" x="7" y="18.99" width="4.99" height="1"/>
+  <rect class="cls-2" x="6" y="20.99" width="5.99" height="1"/>
+  <rect class="cls-2" x="7.01" y="22.99" width="4.99" height="1"/>
+  <rect class="cls-2" x="7.01" y="24.99" width="5.97" height="1"/>
 </svg>

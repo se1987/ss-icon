@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="ic-schedule" data-name="ic-schedule" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+<svg id="_レイヤー_10" data-name="レイヤー 10" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
   <defs>
     <style>
-      .ic-schedule-svg-1 {
-        fill: none;
-        stroke: currentColor;
-        stroke-miterlimit: 10;
-      }
-
-      .ic-schedule-svg-2 {
-        fill: currentColor;
+      .cls-1 {
+        fill: #333;
       }
     </style>
   </defs>
-  <path class="ic-schedule-svg-2" d="M23.99,23.92h-15.99v-11.04h15.99v11.04ZM22.99,12.88h-13.98v10.1h13.98v-10.1Z"/>
-  <path class="ic-schedule-svg-2" d="M23.99,12.92h-15.99v-4.92h15.99v4.92ZM12,8.98h-1.01v2.99h1.01v-2.99ZM21,8.98h-1.01v2.99h1.01v-2.99Z"/>
-  <circle class="ic-schedule-svg-1" cx="18.28" cy="18.22" r="4.22"/>
-  <polyline class="ic-schedule-svg-1" points="18.28 14.83 18.28 18.99 20.06 20.67"/>
+  <path class="cls-1" d="M23.99,23.92h-15.99v-11.04h15.99v11.04ZM22.99,12.88h-13.98v10.1h13.98v-10.1Z"/>
+  <path class="cls-1" d="M23.99,12.92h-15.99v-4.92h15.99v4.92ZM12,8.98h-1.01v2.99h1.01v-2.99ZM21,8.98h-1.01v2.99h1.01v-2.99Z"/>
+  <polygon class="cls-1" points="20.39 20.3 19.71 21.01 17.79 19.2 17.79 14.83 18.8 14.83 18.78 18.78 20.39 20.3"/>
+  <path class="cls-1" d="M23.03,18.25c0,2.61-2.12,4.73-4.73,4.73s-4.73-2.12-4.73-4.73,2.12-4.73,4.73-4.73,4.73,2.12,4.73,4.73ZM18.3,14.49c-2.08,0-3.76,1.69-3.76,3.76s1.69,3.76,3.76,3.76,3.76-1.69,3.76-3.76-1.69-3.76-3.76-3.76Z"/>
 </svg>
