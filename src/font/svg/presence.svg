@@ -3,7 +3,7 @@
   <defs>
     <style>
       .ic-presence-svg-1 {
-        fill: #333;
+        fill: currentColor;
       }
 
       .ic-presence-svg-2 {
