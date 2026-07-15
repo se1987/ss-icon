@@ -4,7 +4,6 @@
   "outputDir": "dist/assets/font",
   "fontsUrl": "/assets/font",
   "normalize": true,
-  "fontHeight": 1000,
   "fontTypes": [
     "eot",
     "woff",
